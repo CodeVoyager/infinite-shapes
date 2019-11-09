@@ -44,11 +44,11 @@ Available actions are:
 
 # Examples
 
--   `node index.js print 20 40 6`
+-   `node index.js print 20 40 6` <br/>
 ![node index.js print 20 40 6](print_20_40_6.png)
--   `node index.js print 60 60 10`
+-   `node index.js print 60 60 10` <br/>
 ![node index.js print 60 60 10](print_60_60_10.png)
--   `node index.js print 80 100 20`
+-   `node index.js print 80 100 20` <br/>
 ![node index.js print 80 100 20](print_80_100_20.png)
 
 # Testing
