@@ -1,5 +1,4 @@
-[![Actions Status](https://xxx.execute-api.us-west-2.amazonaws.com/production/badge/CodeVoyager/infinite-shapes)](https://xxx.execute-api.us-west-2.amazonaws.com/production/results/CodeVoyager/infinite-shapes)
-
+[![Actions Status](https://github.com/CodeVoyager/infinite-shapes/workflows/Node CI/badge.svg)](https://github.com/CodeVoyager/infinite-shapes/actions)
 
 # Infinite loops
 
