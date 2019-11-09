@@ -1,0 +1,21 @@
+{
+  "name": "infinite-shapes",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:index && npm run test:draw",
+    "test:index": "node index.test.js",
+    "test:draw": "node ./modules/draw/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeVoyager/infinite-shapes.git"
+  },
+  "author": "Tomasz Puch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeVoyager/infinite-shapes/issues"
+  },
+  "homepage": "https://github.com/CodeVoyager/infinite-shapes#readme"
+}
