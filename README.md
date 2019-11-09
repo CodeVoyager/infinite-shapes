@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/CodeVoyager/infinite-shapes/workflows/Node CI/badge.svg)](https://github.com/CodeVoyager/infinite-shapes/actions)
+![](https://github.com/CodeVoyager/infinite-shapes/workflows/Node CI/badge.svg)
 
 # Infinite loops
 
